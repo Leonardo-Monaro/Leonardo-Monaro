@@ -5,13 +5,13 @@
   
   - Fiz um estágio em engenharia de processos também na **Brasilit**. Durante meu estágio pude participar de um grande projeto de **Ciências de Dados** que fez eu me interessar muito pela área.
   
-  - **Engenheiro de produção**
+  - 👷 **Engenheiro de produção**
   
-  - **Cursando MBA em *Data Science & Analytics* na instituição ESALQ.**
+  - 📚 **Cursando MBA em *Data Science & Analytics* na instituição ESALQ.**
 
 ##
   
-  - **Atualmente focado em**: 
+  - 🖥️ **Atualmente focado em**: 
   
   <div display="inline">
   &nbsp;&nbsp;<img width=100 height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 
 ##
   
-  ### **VOCÊ PODE ME ENCONTRAR NO LINKEDIN**
+  ### 🔗 **VOCÊ PODE ME ENCONTRAR NO LINKEDIN**
   <a href="https://www.linkedin.com/in/leonardo-monaro-577861219/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
