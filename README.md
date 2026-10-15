@@ -67,7 +67,7 @@
 
 ## 📫 Vamos conversar?
 
-Se quiser trocar uma ideia sobre dados, BI ou engenharia de dados, me chame no [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/).
+Se quiser trocar uma ideia sobre dados, BI ou engenharia de dados, me chame no [LinkedIn](https://www.linkedin.com/in/leomonarodados/?isSelfProfile=true).
 
 ---
 
@@ -96,6 +96,6 @@ Se quiser trocar uma ideia sobre dados, BI ou engenharia de dados, me chame no [
 - 📈 **powerbi-sales-star-schema**: sales dashboard with dimensional modeling and documented DAX measures. *Power BI, DAX, SQL.*
 - 🔄 **br-public-data-pipeline**: automated ingestion of Brazilian public data with orchestration and dashboard. *Python, Airflow, Docker, PostgreSQL.*
 
-**Get in touch:** [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/leomonarodados/?isSelfProfile=true)
 
 </details>
