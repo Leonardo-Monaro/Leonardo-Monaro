@@ -53,6 +53,14 @@
 
 ---
 
+## 📈 Linguagens mais usadas
+
+<p align="center">
+  <a href="https://github.com/Leonardo-Monaro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Monaro&layout=default&langs_count=4" alt="Linguagens mais usadas no GitHub de Leonardo Monaro">
+  </a>
+</p>
+
 ## 🚀 Projetos em destaque
 
 | Projeto | O que faz | Stack |
