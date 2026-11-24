@@ -61,23 +61,30 @@
 
 <details open>
   <summary><h2>📘 Meus Top Projetos</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks.git>
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=amazon-medallion-databricks&theme=tokyonight" alt="amazon-medallion-databricks">
-    </a>
-    <a href="https://github.com/Leonardo-Monaro/powerbi-sales-star-schema">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=powerbi-sales-star-schema&theme=tokyonight" alt="powerbi-sales-star-schema">
-    </a>
-    <a href="https://github.com/Leonardo-Monaro/br-public-data-pipeline">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=br-public-data-pipeline&theme=tokyonight" alt="br-public-data-pipeline">
+
+  <p align="center">
+    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=amazon-medallion-databricks&theme=tokyonight" alt="amazon-medallion-databricks">
     </a>
   </p>
 
-  <p align="left">
-    ⭐ <b>amazon-medallion-databricks</b>: pipeline ETL com Arquitetura Medallion (Bronze → Silver → Gold) sobre ~1,4 milhão de produtos da Amazon em 248 categorias.<br>
-    📈 <b>powerbi-sales-star-schema</b>: dashboard de vendas com modelagem dimensional e medidas DAX documentadas.<br>
-    🔄 <b>br-public-data-pipeline</b>: ingestão automatizada de dados públicos brasileiros, com orquestração e dashboard.
-  </p>
+  <table>
+    <tr>
+      <td><b>⭐ <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks">amazon-medallion-databricks</a></b></td>
+      <td>Pipeline ETL com Arquitetura Medallion (Bronze → Silver → Gold) sobre ~1,4 milhão de produtos da Amazon em 248 categorias.</td>
+      <td><sub>Databricks, PySpark, Delta Lake, SQL</sub></td>
+    </tr>
+    <tr>
+      <td><b>📈 powerbi-sales-star-schema</b></td>
+      <td>Dashboard de vendas com modelagem dimensional e medidas DAX documentadas.</td>
+      <td><sub>Power BI, DAX, SQL</sub></td>
+    </tr>
+    <tr>
+      <td><b>🔄 br-public-data-pipeline</b></td>
+      <td>Ingestão automatizada de dados públicos brasileiros, com orquestração e dashboard.</td>
+      <td><sub>Python, Airflow, Docker, PostgreSQL</sub></td>
+    </tr>
+  </table>
 
   <blockquote>🚧 Novos projetos em construção: analytics engineering com dbt, leitor de NF-e (XML) com dados sintéticos e previsão de demanda com MLflow.</blockquote>
 </details>
