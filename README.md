@@ -41,10 +41,21 @@
 <h3 align="center">📚 Linguagens e ferramentas que eu uso</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,powerbi,databricks,spark,git,jupyter,excel" /><br>
-    <img src="https://skillicons.dev/icons?i=tableau,aws,docker,vscode,github" /><br>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,docker,git,github,vscode" /><br><br>
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake"><br>
+
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white" alt="Qlik Sense">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </div>
-<p align="center"><sub>Também trabalho com DAX, Qlik Sense, Delta Lake e integração com SAP.</sub></p>
 
 <br>
 
