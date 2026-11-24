@@ -61,10 +61,6 @@
 
 <details open>
   <summary><h2>📘 Meus Top Projetos</h2></summary>
-    <p align="left">
-    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks" style="display: inline-block; margin-right: 10px;">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=amazon-medallion-databricks&theme=tokyonight" alt="amazon-medallion-databricks">
-    </a>
 
   <table>
     <tr>
