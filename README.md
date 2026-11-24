@@ -62,7 +62,7 @@
 <details open>
   <summary><h2>📘 Meus Top Projetos</h2></summary>
   <p align="left">
-    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks">
+    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks.git>
       <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=amazon-medallion-databricks&theme=tokyonight" alt="amazon-medallion-databricks">
     </a>
     <a href="https://github.com/Leonardo-Monaro/powerbi-sales-star-schema">
