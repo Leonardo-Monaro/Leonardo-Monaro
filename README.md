@@ -49,4 +49,47 @@
 <br>
 
 <details open>
-  <summary><h2>📘 Meus
+  <summary><h2>📘 Meus Top Projetos</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Leonardo-Monaro/amazon-medallion-databricks">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=amazon-medallion-databricks&theme=tokyonight" alt="amazon-medallion-databricks">
+    </a>
+    <a href="https://github.com/Leonardo-Monaro/powerbi-sales-star-schema">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=powerbi-sales-star-schema&theme=tokyonight" alt="powerbi-sales-star-schema">
+    </a>
+    <a href="https://github.com/Leonardo-Monaro/br-public-data-pipeline">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Monaro&repo=br-public-data-pipeline&theme=tokyonight" alt="br-public-data-pipeline">
+    </a>
+  </p>
+
+  <p align="left">
+    ⭐ <b>amazon-medallion-databricks</b>: pipeline ETL com Arquitetura Medallion (Bronze → Silver → Gold) sobre ~1,4 milhão de produtos da Amazon em 248 categorias.<br>
+    📈 <b>powerbi-sales-star-schema</b>: dashboard de vendas com modelagem dimensional e medidas DAX documentadas.<br>
+    🔄 <b>br-public-data-pipeline</b>: ingestão automatizada de dados públicos brasileiros, com orquestração e dashboard.
+  </p>
+
+  <blockquote>🚧 Novos projetos em construção: analytics engineering com dbt, leitor de NF-e (XML) com dados sintéticos e previsão de demanda com MLflow.</blockquote>
+</details>
+
+<br>
+
+<details>
+<summary><b>🇺🇸 English version</b></summary>
+
+<br>
+
+### Hi, I'm Leonardo Monaro
+
+**Data Analyst | BI & Analytics Engineering.** I turn raw data into reliable pipelines and dashboards that speed up decision-making.
+
+- 📊 **4+ years** in data analysis and BI at **Brasilit (Saint-Gobain)**
+- ⚙️ Cut invoice approval time by **45%** through automation and data analysis
+- 🏭 Background in **Production Engineering**: I bring process and business thinking to data work
+- 🎓 **MBA in Data Science & Analytics** at ESALQ/USP
+- 📚 Currently studying: **Data Engineering**, **Advanced SQL** and **Applied Machine Learning**
+- 🌎 Based in Capivari, SP, Brazil | Open to opportunities in Brazil and abroad
+- 🗣️ Portuguese (native) · English (advanced) · Spanish (basic)
+
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/leomonarodados/)
+
+</details>
