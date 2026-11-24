@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+Monaro!;Data+Analyst+%7C+BI+%26+Analytics+Engineering" alt="Typing SVG" /></a>
-</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Leonardo+Monaro!;Data+Analyst+%7C+BI+%26+Analytics+Engineering" alt="Typing SVG" /></a>
+</h1>>
 
 <h4 align="center">Transformo dados brutos em pipelines confiáveis e dashboards que aceleram decisões. 📊</h4>
 
